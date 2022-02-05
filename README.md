@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bitcoin / Lightning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on LND/Umbrel
-- 📫 How to reach me rogersouren@hotmail.com
+- 📫 How to reach me aloha-sendit@protonmail.com
 
 <!---
 souspeed/souspeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
